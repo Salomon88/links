@@ -1,0 +1,12 @@
+https://en.wikipedia.org/wiki/Shift-reduce_parser              - Shift-reduce parser
+https://en.wikipedia.org/wiki/Bottom-up_parsing                - Bottom-up parsing
+https://en.wikipedia.org/wiki/LR_parser                        - LR_parser
+https://github.com/antlr/antlr4/blob/master/doc/lexer-rules.md - Lexer Rules
+https://stackoverflow.com/questions/47496626/what-does-pushmode-popmode-mode-open-and-close-mean-in-the-lexer-grammar - pushMode
+https://habr.com/ru/post/99298/ - Компиляция. 2: грамматики
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+https://en.wikipedia.org/wiki/Tree_traversal#Depth-first
+https://habr.com/ru/post/412905/ - LL
+https://www.gnu.org/software/bison/manual/html_node/Simple-GLR-Parsers.html
+http://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html
+http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html
