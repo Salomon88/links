@@ -15,3 +15,5 @@ https://github.com/antlr/antlr4/blob/master/doc/lexer-rules.md
 https://stackoverflow.com/questions/6480634/examples-of-ll1-lr1-lr0-lalr1-grammars- примеры
 http://www.supereasyfree.com/software/simulators/compilers/principles-techniques-and-tools/parsing-simulator/download.php - сим
 https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing
+https://github.com/amirhossein-hkh/LR-Parser
+https://www.geeksforgeeks.org/difference-between-ll-and-lr-parser/
