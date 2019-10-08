@@ -17,3 +17,4 @@ http://www.supereasyfree.com/software/simulators/compilers/principles-techniques
 https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing
 https://github.com/amirhossein-hkh/LR-Parser
 https://www.geeksforgeeks.org/difference-between-ll-and-lr-parser/
+https://www.geeksforgeeks.org/backtracking-algorithms/
