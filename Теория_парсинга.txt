@@ -18,3 +18,4 @@ https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-an
 https://github.com/amirhossein-hkh/LR-Parser
 https://www.geeksforgeeks.org/difference-between-ll-and-lr-parser/
 https://www.geeksforgeeks.org/backtracking-algorithms/
+https://habr.com/ru/post/358304/ - автоматы разные
