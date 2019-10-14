@@ -1,3 +1,4 @@
 https://studopedia.org/8-228807.html - роцессы и потоки. Многозадачность и многопоточность. Проблемы разработки приложений для многопоточной среды
 https://habr.com/ru/company/piter/blog/276675/ - apache spark, обработка больших данных, кластеризация
 https://www.ibm.com/developerworks/ru/library/cl-bluemix-autoscale/index.html - Масштабирование приложений
+https://tproger.ru/translations/binary-exploitation-buffer-overflow/ - переполнение буфера
