@@ -1,2 +1,3 @@
 https://www.baeldung.com/java-type-erasure
 https://docs.oracle.com/javase/tutorial/java/generics/genTypes.html
+https://habr.com/ru/post/247647/ - логгеры
