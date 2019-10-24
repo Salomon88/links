@@ -3,3 +3,4 @@ https://docs.oracle.com/javase/tutorial/java/generics/genTypes.html
 https://habr.com/ru/post/247647/ , https://examples.javacodegeeks.com/enterprise-java/slf4j/slf4j-configuration-file-example/ - логгеры
 https://github.com/openjdk/jdk/blob/master/src/hotspot/os/linux/os_linux.cpp - fork and exec
 http://developer.alexanderklimov.ru/android/java/set.php - Set
+https://habr.com/ru/post/133981/ - JMM
