@@ -5,3 +5,4 @@ https://github.com/openjdk/jdk/blob/master/src/hotspot/os/linux/os_linux.cpp - f
 http://developer.alexanderklimov.ru/android/java/set.php - Set
 https://habr.com/ru/post/133981/ - JMM
 https://habr.com/ru/company/luxoft/blog/280782/
+https://javarush.ru/groups/posts/2078-threadom-java-ne-isportishjh--chastjh-v---executor-threadpool-fork-join-pool - тред пулы
