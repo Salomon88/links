@@ -7,3 +7,4 @@ https://habr.com/ru/post/133981/ - JMM
 https://habr.com/ru/company/luxoft/blog/280782/
 https://javarush.ru/groups/posts/2078-threadom-java-ne-isportishjh--chastjh-v---executor-threadpool-fork-join-pool - тред пулы
 https://habr.com/ru/post/128985/ - ForkJoinPool
+https://javarush.ru/groups/posts/2048-threadom-java-ne-isportishjh--chastjh-ii---sinkhronizacija -поточные штучки
