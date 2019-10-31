@@ -3,3 +3,4 @@ https://habr.com/ru/company/piter/blog/276675/ - apache spark, обработк�
 https://www.ibm.com/developerworks/ru/library/cl-bluemix-autoscale/index.html - Масштабирование приложений
 https://tproger.ru/translations/binary-exploitation-buffer-overflow/ - переполнение буфера
 https://habr.com/ru/company/yandex/blog/265569/ - Правила http
+https://habr.com/ru/company/infopulse/blog/265805/ - gRpc
