@@ -10,3 +10,5 @@ https://habr.com/ru/post/128985/ - ForkJoinPool
 https://javarush.ru/groups/posts/2048-threadom-java-ne-isportishjh--chastjh-ii---sinkhronizacija -поточные штучки
 https://tproger.ru/translations/java8-concurrency-tutorial-1/ - и ещё потоков
 https://www.javaworld.com/article/2077343/java-s-primitive-wrappers-are-written-in-stone.html - Иммутабельность
+https://www.tutorialspoint.com/Bitwise-right-shift-operator-in-Java
+https://geekbrains.ru/posts/numbers_simple_to_complex
