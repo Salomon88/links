@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+class CppStudio
+{
+public:
+    int a =3;
+    void message() 
+    {
+        cout << "website: cppstudio.com\ntheme: Classes and Objects in C + +\n";
+    }
+};
+ 
+void changeReference(CppStudio*& cp) {
+    cp = new CppStudio();
+    //cout << &cp << endl;
+    //cp->a = 9;
+}
+
+int main(int argc, char* argv[])
+{
+    CppStudio *pobjMessage = new CppStudio(); 
+    cout << &pobjMessage << pobjMessage->a << endl;
+    changeReference(pobjMessage);
+    cout << pobjMessage << pobjMessage->a << endl;
+    return 0;
+}
+
