@@ -4,3 +4,4 @@ https://www.ibm.com/developerworks/ru/library/cl-bluemix-autoscale/index.html - 
 https://tproger.ru/translations/binary-exploitation-buffer-overflow/ - переполнение буфера
 https://habr.com/ru/company/yandex/blog/265569/ - Правила http
 https://habr.com/ru/company/infopulse/blog/265805/ - gRpc
+http://codeart.ru/2008/05/04/maska-podseti-vy-uvereny-chto-ponimaete-dlya-chego-ona-nuzhna/ - маска подсети
