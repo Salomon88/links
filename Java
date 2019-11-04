@@ -13,3 +13,5 @@ https://www.javaworld.com/article/2077343/java-s-primitive-wrappers-are-written-
 https://www.tutorialspoint.com/Bitwise-right-shift-operator-in-Java
 https://geekbrains.ru/posts/numbers_simple_to_complex - перевод отрицательных чисел
 http://java-online.ru/concurrent-queue-block.xhtml#arrayBQ - арей блокинг кью
+https://tproger.ru/translations/10-oop-principles/ - solid
+https://tproger.ru/blogs/jvm-insides/ - jvm
