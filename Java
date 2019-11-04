@@ -11,4 +11,5 @@ https://javarush.ru/groups/posts/2048-threadom-java-ne-isportishjh--chastjh-ii--
 https://tproger.ru/translations/java8-concurrency-tutorial-1/ - и ещё потоков
 https://www.javaworld.com/article/2077343/java-s-primitive-wrappers-are-written-in-stone.html - Иммутабельность
 https://www.tutorialspoint.com/Bitwise-right-shift-operator-in-Java
-https://geekbrains.ru/posts/numbers_simple_to_complex
+https://geekbrains.ru/posts/numbers_simple_to_complex - перевод отрицательных чисел
+http://java-online.ru/concurrent-queue-block.xhtml#arrayBQ - арей блокинг кью
