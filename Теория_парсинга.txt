@@ -21,3 +21,4 @@ https://habr.com/ru/post/358304/ - автоматы разные
 https://stackoverflow.com/questions/3056441/what-is-a-semantic-predicate-in-antlr
 https://www.antlr.org/papers/LL-star-PLDI11.pdf
 http://www.javable.com/javaworld/12_00/02/#JavaCC - жабацц
+http://www.comizdat.com/index_.php?id=346&in=kpp_articles_id - жабацц
