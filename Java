@@ -18,3 +18,4 @@ https://tproger.ru/blogs/jvm-insides/ - jvm
 https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html#jvms-2.5.2 - выделение памяти под тред
 https://urvanov.ru/2017/04/02/threadlocal-%D0%B2-java/ - тред локал
 https://tproger.ru/translations/java8-concurrency-tutorial-3/ - канкаренси
+http://tutorials.jenkov.com/java-concurrency/volatile.html - про память и потоки
