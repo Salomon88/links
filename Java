@@ -15,3 +15,4 @@ https://geekbrains.ru/posts/numbers_simple_to_complex - перевод отри�
 http://java-online.ru/concurrent-queue-block.xhtml#arrayBQ - арей блокинг кью
 https://tproger.ru/translations/10-oop-principles/ - solid
 https://tproger.ru/blogs/jvm-insides/ - jvm
+https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html#jvms-2.5.2 - выделение памяти под тред
