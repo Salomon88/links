@@ -6,3 +6,4 @@ http://www.mathprofi.ru/predel_posledovatelnosti.html - пределы
 https://www.youtube.com/watch?v=sSnyhOXFLqc - производная
 https://tutomath.ru/uroki/sinus-kosinus-tangens.html - синус, косинус
 http://raal100.narod.ru/index/0-311 - пределы
+http://mathhelpplanet.com/static.php?p=gruppy-koltsa-polya-v-matematike - группы кольца поля
