@@ -27,3 +27,5 @@ https://tomassetti.me/parse-tree-abstract-syntax-tree/ - синтаксичес�
 https://rus.stackexchange.com/questions/451958/%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%b8%d0%b5-%d1%81%d0%b5%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8-%d0%be%d1%82-%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b3%d0%be-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d1%8f/451969#451969 - лексическое и семантическое значение
 https://habr.com/ru/company/mailru/blog/477062/ - оптимизирующий компилятор
 https://www.javaworld.com/article/2076269/build-your-own-languages-with-javacc.html
+https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+https://en.wikipedia.org/wiki/Augmented_transition_network
