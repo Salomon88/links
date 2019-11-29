@@ -29,3 +29,4 @@ https://habr.com/ru/company/mailru/blog/477062/ - оптимизирующий �
 https://www.javaworld.com/article/2076269/build-your-own-languages-with-javacc.html
 https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 https://en.wikipedia.org/wiki/Augmented_transition_network
+https://dzone.com/articles/antlr-and-javacc-parser-generators
