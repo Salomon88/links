@@ -33,3 +33,6 @@ https://dzone.com/articles/antlr-and-javacc-parser-generators
 https://groups.google.com/forum/#!topic/antlr-discussion/NSUGQwIonKo
 https://habr.com/ru/post/198682/ - Алгоритм Ахо-Корасик
 https://habr.com/ru/post/348314/
+Тулы для создания dsl
+https://www.jetbrains.com/mps/
+https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html
