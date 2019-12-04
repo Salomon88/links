@@ -37,3 +37,4 @@ https://habr.com/ru/post/348314/
 https://www.jetbrains.com/mps/
 https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html
 https://habr.com/ru/post/166777/ - конечные автоматы для регулярных выражений
+https://compscicenter.ru/courses/compilers/2013-autumn/classes/227/ - Лекции Дмитрий Булычев
