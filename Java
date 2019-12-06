@@ -22,3 +22,4 @@ http://tutorials.jenkov.com/java-concurrency/volatile.html - про память
 https://www.ibm.com/developerworks/ru/library/j-5things15/index.html - всё за потоки
 https://www.oracle.com/technetwork/java/soundbanks-135798.html - Звучок на Java
 http://hg.openjdk.java.net/jdk8u/jdk8u/hotspot/file/tip/src/share/vm/interpreter/bytecodeInterpreter.cpp - большой свитч кейз
+https://habr.com/ru/company/sberbank/blog/416413/ - инвариантность ковариантность
