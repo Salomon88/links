@@ -24,3 +24,4 @@ https://www.oracle.com/technetwork/java/soundbanks-135798.html - Звучок н
 http://hg.openjdk.java.net/jdk8u/jdk8u/hotspot/file/tip/src/share/vm/interpreter/bytecodeInterpreter.cpp - большой свитч кейз
 https://habr.com/ru/company/sberbank/blog/416413/ - инвариантность ковариантность
 https://medium.com/@maximsidorov/akka-%D0%BE-%D1%87%D0%B5%D0%BC-%D0%B2%D1%81%D0%B5-%D1%8D%D1%82%D0%B8-%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-akka-cad22a30747 - Акторы акка
+http://www.seostella.com/ru/article/2012/10/04/kak-sgenerirovat-hashcode-v-java.html - как правильно хешкод определять
