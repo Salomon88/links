@@ -43,3 +43,4 @@ https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%
 https://en.wikipedia.org/wiki/Attribute_grammar - атрибутные грамматики
 https://neerc.ifmo.ru/wiki/index.php?title=%D0%90%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%BD%D1%8B%D0%B5_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8 - S атрибутная грамматика
 https://en.wikipedia.org/wiki/Dyck_language - язык дика
+https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687062/LLVM - Антлр + ЛЛВМ
