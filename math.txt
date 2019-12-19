@@ -10,3 +10,4 @@ http://mathhelpplanet.com/static.php?p=gruppy-koltsa-polya-v-matematike - гру
 http://www.mathprofi.ru/goryachie_formuly.pdf - Горячинькие формулы
 http://ru.solverbook.com/spravochnik/progressii/beskonechnaya-ubyvayushhaya-geometricheskaya-progressiya-ee-formuly/ - Геометрическая прогрессия убывающая
 https://www.calc.ru/Progressii-Arifmeticheskaya-Geometricheskaya-Formuly.html - арифметическая и геометрическая прогрессия
+http://www.mathprofi.ru/predely_primery_reshenii.html - Примеры решений пределов
