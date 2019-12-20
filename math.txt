@@ -11,3 +11,4 @@ http://www.mathprofi.ru/goryachie_formuly.pdf - Горячинькие форм�
 http://ru.solverbook.com/spravochnik/progressii/beskonechnaya-ubyvayushhaya-geometricheskaya-progressiya-ee-formuly/ - Геометрическая прогрессия убывающая
 https://www.calc.ru/Progressii-Arifmeticheskaya-Geometricheskaya-Formuly.html - арифметическая и геометрическая прогрессия
 http://www.mathprofi.ru/predely_primery_reshenii.html - Примеры решений пределов
+https://www.berdov.com/docs/equation/quadratic_equations/ - Решение квадратных уравнений
