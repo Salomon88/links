@@ -27,3 +27,4 @@ https://medium.com/@maximsidorov/akka-%D0%BE-%D1%87%D0%B5%D0%BC-%D0%B2%D1%81%D0%
 http://www.seostella.com/ru/article/2012/10/04/kak-sgenerirovat-hashcode-v-java.html - как правильно хешкод определять
 http://developer.alexanderklimov.ru/android/java/logic_operators.php - логические операторы
 http://www.jprl.com/Blog/archive/development/2007/Aug-31.html - дженерики в джава и дотнет
+https://docs.oracle.com/javase/8/docs/api/java/lang/invoke/LambdaMetafactory.html - Лямбла фабрика
