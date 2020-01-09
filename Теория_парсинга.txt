@@ -48,3 +48,4 @@ https://en.wikipedia.org/wiki/Dyck_language - язык дика
 https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687062/LLVM - Антлр + ЛЛВМ
 https://tomassetti.me/resources-create-programming-languages/ - гиды по языко строению
 https://en.wikipedia.org/wiki/Context-free_grammar#Derivations_and_syntax_trees - опять лл и лр
+https://cs.stackexchange.com/questions/54814/different-between-left-most-and-right-most-derivation - туда же
