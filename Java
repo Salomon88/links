@@ -32,3 +32,4 @@ https://javarush.ru/groups/posts/1989-kontraktih-equals-i-hashcode-ili-kak-ono-v
 https://www.baeldung.com/java-method-handles - методнендлы протива рефлексии и всё такое
 https://www.infoq.com/articles/Java-8-Lambdas-A-Peek-Under-the-Hood/ - Лямбды под капотом
 https://habr.com/ru/company/haulmont/blog/432418/ - ещё про создание лямбд
+https://habr.com/ru/company/yandex/blog/484068/ - gRPC
