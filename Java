@@ -29,3 +29,4 @@ http://developer.alexanderklimov.ru/android/java/logic_operators.php - логи�
 http://www.jprl.com/Blog/archive/development/2007/Aug-31.html - дженерики в джава и дотнет
 https://docs.oracle.com/javase/8/docs/api/java/lang/invoke/LambdaMetafactory.html - Лямбла фабрика
 https://javarush.ru/groups/posts/1989-kontraktih-equals-i-hashcode-ili-kak-ono-vsje-tam - ещё про иквалз и хешкоде
+https://www.baeldung.com/java-method-handles - методнендлы протива рефлексии и всё такое
