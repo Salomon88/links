@@ -33,3 +33,4 @@ https://www.baeldung.com/java-method-handles - методнендлы проти
 https://www.infoq.com/articles/Java-8-Lambdas-A-Peek-Under-the-Hood/ - Лямбды под капотом
 https://habr.com/ru/company/haulmont/blog/432418/ - ещё про создание лямбд
 https://www.baeldung.com/java-method-handles - как найти и вызвать метод через новый апи восьмёрочки
+https://stackoverflow.com/questions/27278314/why-cant-i-invokeexact-here-even-though-the-methodtype-is-ok - Хаки с инвоукэкзакт
