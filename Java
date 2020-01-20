@@ -35,4 +35,5 @@ https://habr.com/ru/company/haulmont/blog/432418/ - ещё про создани
 https://www.baeldung.com/java-method-handles - как найти и вызвать метод через новый апи восьмёрочки
 https://stackoverflow.com/questions/27278314/why-cant-i-invokeexact-here-even-though-the-methodtype-is-ok - Хаки с инвоукэкзакт
 https://www.baeldung.com/java-instrumentation - Агенты
+https://habr.com/ru/post/134102/ - Размер Java объектов
 
