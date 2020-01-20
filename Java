@@ -36,4 +36,5 @@ https://www.baeldung.com/java-method-handles - как найти и вызват
 https://stackoverflow.com/questions/27278314/why-cant-i-invokeexact-here-even-though-the-methodtype-is-ok - Хаки с инвоукэкзакт
 https://www.baeldung.com/java-instrumentation - Агенты
 https://habr.com/ru/post/134102/ - Размер Java объектов
+https://www.baeldung.com/java-treemap-vs-hashmap - тримап и хапш мап
 
