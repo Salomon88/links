@@ -37,4 +37,5 @@ https://stackoverflow.com/questions/27278314/why-cant-i-invokeexact-here-even-th
 https://www.baeldung.com/java-instrumentation - Агенты
 https://habr.com/ru/post/134102/ - Размер Java объектов
 https://www.baeldung.com/java-treemap-vs-hashmap - тримап и хапш мап
+https://elizarov.livejournal.com/19627.html - Оптимизация важна или ByteBuffer vs int[]
 
