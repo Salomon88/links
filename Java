@@ -41,3 +41,4 @@ https://elizarov.livejournal.com/19627.html - Оптимизация важна 
 https://habr.com/ru/post/117274/ - аут оф мемари ерор
 https://stackoverflow.com/questions/38223880/how-did-jvm-implement-arrays-class - Java array implementation
 http://embedded.ifmo.ru/embedded_old/ETC/REFERAT/1998_1/JAVA/javavm.htm - жевэма
+https://javapapers.com/core-java/java-jvm-run-time-data-areas - области жевемы
