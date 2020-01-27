@@ -44,3 +44,4 @@ http://embedded.ifmo.ru/embedded_old/ETC/REFERAT/1998_1/JAVA/javavm.htm - жев
 https://javapapers.com/core-java/java-jvm-run-time-data-areas - области жевемы
 https://www.journaldev.com/4098/java-heap-space-vs-stack-memory - взаимодействие областей памяти
 https://habr.com/ru/post/111456/ -Основы байткода
+https://blog.codecentric.de/en/2010/01/the-java-memory-architecture-1-act/ - ариаз
