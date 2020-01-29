@@ -45,3 +45,4 @@ https://javapapers.com/core-java/java-jvm-run-time-data-areas - области �
 https://www.journaldev.com/4098/java-heap-space-vs-stack-memory - взаимодействие областей памяти
 https://habr.com/ru/post/111456/ -Основы байткода
 https://blog.codecentric.de/en/2010/01/the-java-memory-architecture-1-act/ - ариаз
+https://shipilev.net/talks/narnia-2555-jmm-pragmatics-ru.pdf - шипилёвские мемори модели
