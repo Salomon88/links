@@ -48,3 +48,4 @@ https://blog.codecentric.de/en/2010/01/the-java-memory-architecture-1-act/ - а�
 https://shipilev.net/talks/narnia-2555-jmm-pragmatics-ru.pdf - шипилёвские мемори модели
 https://asm.ow2.io/ - визиторы и листенеры на байткод
 http://kaiwangchen.github.io/2012/11/03/explore-java-timezone.html - таймзоны
+https://docs.oracle.com/javase/7/docs/technotes/guides/language/assert.html - нативный ассерт
