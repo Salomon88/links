@@ -32,3 +32,5 @@ https://www.symbolab.com/solver/limit-calculator/%5Clim_%7Bx%5Cto%5Cinfty%7D%5Cl
 Последовательность неограниченная, но 
 предела нет никакого - ни конечного, ни 
 бесконечного. 
+
+https://www.resolventa.ru/spr/matan/sequence.htm#bound - ограниченые и неограниченые последовательности
