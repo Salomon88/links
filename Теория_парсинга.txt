@@ -36,6 +36,7 @@ https://habr.com/ru/post/348314/
 Тулы для создания dsl
 https://www.jetbrains.com/mps/
 https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html
+https://habr.com/ru/post/263951/ - Ускоренный курс по нотациям в теории языков программирования
 https://habr.com/ru/post/348874/ - как читать семантику
 https://stackoverflow.com/questions/2458558/what-does-s-attributed-and-l-attributed-grammar-mean
 https://habr.com/ru/post/166777/ - конечные автоматы для регулярных выражений
