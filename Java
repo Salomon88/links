@@ -53,3 +53,4 @@ https://habr.com/ru/post/230239/ - агенты
 https://www.baeldung.com/java-weak-reference - weak-reference
 https://urvanov.ru/2019/04/02/java-memory-model/#wordtearing - java-memory-model
 https://stackoverflow.com/questions/19744508/volatile-vs-atomic- volatile
+https://ru.stackoverflow.com/questions/547859/java-memory-model-%D0%B8-happens-before
