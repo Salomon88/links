@@ -57,3 +57,4 @@ https://ru.stackoverflow.com/questions/547859/java-memory-model-%D0%B8-happens-b
 https://javarush.ru/groups/posts/2162-zookeeper-ili-kak-zhivjetsja-rabotniku-zooparka - распределённая конфигурация
 https://umumble.com/blogs/java/how-does-jvm-allocate-objects%3F/- аллокация памяти под объект
 https://docs.oracle.com/javase/tutorial/essential/concurrency/imstrat.html - стратегия объявления иммутабельных объектов
+https://dev.cheremin.info/2013/02/blog-post_26.html - .и нет никаких реордерингов
