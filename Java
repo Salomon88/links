@@ -59,3 +59,4 @@ https://umumble.com/blogs/java/how-does-jvm-allocate-objects%3F/- аллокац
 https://docs.oracle.com/javase/tutorial/essential/concurrency/imstrat.html - стратегия объявления иммутабельных объектов
 https://dev.cheremin.info/2013/02/blog-post_26.html - и нет никаких реордерингов
 https://www.jesperdj.com/2015/10/04/project-valhalla-value-types/ - валью типы
+https://www.logicbig.com/tutorials/core-java-tutorial/java-dynamic-proxies/method-interceptors.html - перехват вызовов
