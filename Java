@@ -61,4 +61,5 @@ https://dev.cheremin.info/2013/02/blog-post_26.html - и нет никаких �
 https://www.jesperdj.com/2015/10/04/project-valhalla-value-types/ - валью типы
 https://www.logicbig.com/tutorials/core-java-tutorial/java-dynamic-proxies/method-interceptors.html - перехват вызовов
 https://habr.com/ru/post/319036/ - CAS
-https://dev.cheremin.info/2013/02/jmm-solution.html - ХБ 
+https://dev.cheremin.info/2013/02/jmm-solution.html - ХБ
+https://dev.cheremin.info/2013/02/blog-post_26.html - я уже хз
