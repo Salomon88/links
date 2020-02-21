@@ -53,3 +53,4 @@ https://cs.stackexchange.com/questions/54814/different-between-left-most-and-rig
 https://habr.com/ru/post/189992/ - Теорема клини
 https://swtch.com/~rsc/regexp/regexp1.html - регулярки
 https://habr.com/ru/company/pt/blog/210772/#formal-language-types - обзо кс и кз языков
+https://github.com/antlr/antlr4-intellij-adaptor - адаптор грамматики для antlr в jb
