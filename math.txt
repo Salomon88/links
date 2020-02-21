@@ -34,3 +34,4 @@ https://www.symbolab.com/solver/limit-calculator/%5Clim_%7Bx%5Cto%5Cinfty%7D%5Cl
 бесконечного. 
 
 https://www.resolventa.ru/spr/matan/sequence.htm#bound - ограниченые и неограниченые последовательности
+https://znanija.com/task/28883339 - решение
