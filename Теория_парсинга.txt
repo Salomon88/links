@@ -54,3 +54,5 @@ https://habr.com/ru/post/189992/ - Теорема клини
 https://swtch.com/~rsc/regexp/regexp1.html - регулярки
 https://habr.com/ru/company/pt/blog/210772/#formal-language-types - обзо кс и кз языков
 https://github.com/antlr/antlr4-intellij-adaptor - адаптор грамматики для antlr в jb
+https://stackoverflow.com/questions/18382957/tree-parser-vs-stream-parser
+https://stackoverflow.com/questions/11496013/what-is-the-difference-between-an-on-line-and-off-line-algorithm - и ссылка выше отличиедерева от потоковых парсеров
