@@ -64,3 +64,5 @@ https://habr.com/ru/post/319036/ - CAS
 https://dev.cheremin.info/2013/02/jmm-solution.html - ХБ
 https://dev.cheremin.info/2013/02/blog-post_26.html - я уже хз
 https://habr.com/ru/post/348906/ - прокси вызовов
+https://habr.com/ru/post/305894/ - C1C2
+https://www.baeldung.com/java-build-compiler-plugin - плагин для компилятора
