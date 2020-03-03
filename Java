@@ -68,3 +68,4 @@ https://habr.com/ru/post/305894/ - C1C2
 https://www.baeldung.com/java-build-compiler-plugin - плагин для компилятора
 https://www.ibm.com/support/knowledgecenter/ru/SS8PJ7_9.5.0/org.eclipse.jdt.doc.user/tasks/task-suppress_warnings.htm - спресс ворнингс отключение
 https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/builder/EqualsBuilder.html - еквалс билдер
+http://norvig.com/java-iaq.html#null- часто задаваемые вопросы, тут про null
