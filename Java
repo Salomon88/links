@@ -70,3 +70,4 @@ https://www.ibm.com/support/knowledgecenter/ru/SS8PJ7_9.5.0/org.eclipse.jdt.doc.
 https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/builder/EqualsBuilder.html - еквалс билдер
 http://norvig.com/java-iaq.html#null- часто задаваемые вопросы, тут про null
 http://notatube.blogspot.com/2010/12/project-lombok-creating-custom.html - форк ломбок
+http://notatube.blogspot.com/2010/11/project-lombok-trick-explained.html - архитектура
