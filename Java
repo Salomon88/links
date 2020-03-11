@@ -72,3 +72,4 @@ http://norvig.com/java-iaq.html#null- часто задаваемые вопро
 http://notatube.blogspot.com/2010/12/project-lombok-creating-custom.html - форк ломбок
 http://notatube.blogspot.com/2010/11/project-lombok-trick-explained.html - архитектура
 https://gist.github.com/pietrocaselani/8624554- хакинг джава дерева
+https://www.baeldung.com/jvm-method-inlining- инлайнинг методов по размеру
