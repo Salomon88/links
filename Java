@@ -73,3 +73,4 @@ http://notatube.blogspot.com/2010/12/project-lombok-creating-custom.html - фо�
 http://notatube.blogspot.com/2010/11/project-lombok-trick-explained.html - архитектура
 https://gist.github.com/pietrocaselani/8624554- хакинг джава дерева
 https://www.baeldung.com/jvm-method-inlining- инлайнинг методов по размеру
+https://www.examsnet.com/fulltest/java-8-certification-language-fundamentals-questions - подготовка к экзамену
