@@ -75,3 +75,4 @@ https://gist.github.com/pietrocaselani/8624554- хакинг джава дере
 https://www.baeldung.com/jvm-method-inlining- инлайнинг методов по размеру
 https://www.examsnet.com/fulltest/java-8-certification-language-fundamentals-questions - подготовка к экзамену
 https://www.examsnet.com/exams/ocjp-certification-practice-online - подготовка к экзамену
+https://ru.wikipedia.org/wiki/Weka - машинное обучение
