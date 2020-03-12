@@ -76,3 +76,5 @@ https://www.baeldung.com/jvm-method-inlining- инлайнинг методов 
 https://www.examsnet.com/fulltest/java-8-certification-language-fundamentals-questions - подготовка к экзамену
 https://www.examsnet.com/exams/ocjp-certification-practice-online - подготовка к экзамену
 https://ru.wikipedia.org/wiki/Weka - машинное обучение
+https://martinfowler.com/articles/lmax.html - дизраптор
+https://habr.com/ru/post/181686/ - вертекс инструмент
