@@ -56,3 +56,4 @@ https://habr.com/ru/company/pt/blog/210772/#formal-language-types - обзо к�
 https://github.com/antlr/antlr4-intellij-adaptor - адаптор грамматики для antlr в jb
 https://stackoverflow.com/questions/18382957/tree-parser-vs-stream-parser
 https://stackoverflow.com/questions/11496013/what-is-the-difference-between-an-on-line-and-off-line-algorithm - и ссылка выше отличиедерева от потоковых парсеров
+https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687006/How+do+I+strip+quotes - скипать кавычки
