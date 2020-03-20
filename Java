@@ -78,4 +78,4 @@ https://www.examsnet.com/exams/ocjp-certification-practice-online - подгот
 https://ru.wikipedia.org/wiki/Weka - машинное обучение
 https://martinfowler.com/articles/lmax.html - дизраптор
 https://habr.com/ru/post/181686/ - вертекс инструмент
-https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687006/How+do+I+strip+quotes - скипать кавычки
+https://habr.com/ru/post/143237/ - про java синхронизации
