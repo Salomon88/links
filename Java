@@ -79,3 +79,4 @@ https://ru.wikipedia.org/wiki/Weka - машинное обучение
 https://martinfowler.com/articles/lmax.html - дизраптор
 https://habr.com/ru/post/181686/ - вертекс инструмент
 https://habr.com/ru/post/143237/ - про java синхронизации
+java.util.Objects.hash( ... ) - способ организации хэшкода
