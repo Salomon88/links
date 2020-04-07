@@ -12,3 +12,4 @@ https://ru.stackoverflow.com/questions/435726/%D0%92%D1%8B%D1%80%D0%B0%D0%B2%D0%
 https://tproger.ru/translations/art-of-structure-packing/ - выравнивание
 https://en.wikipedia.org/wiki/Locality_of_reference - кэш локалити
 https://habr.com/ru/company/alfa/blog/354728/ - асинхронный сервер на python + select
+https://medium.com/software-design/why-software-developers-should-care-about-cpu-caches-8da04355bb8a - о кешах процессора
