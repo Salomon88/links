@@ -81,3 +81,4 @@ https://habr.com/ru/post/181686/ - вертекс инструмент
 https://habr.com/ru/post/143237/ - про java синхронизации
 java.util.Objects.hash( ... ) - способ организации хэшкода
 https://www.tutorialspoint.com/Default-array-values-in-Java - значения в массивах по умолчанию
+https://habr.com/ru/post/108016/ - 5 вещей о многопоточности
