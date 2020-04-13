@@ -83,3 +83,4 @@ java.util.Objects.hash( ... ) - способ организации хэшкод
 https://www.tutorialspoint.com/Default-array-values-in-Java - значения в массивах по умолчанию
 https://habr.com/ru/post/108016/ - 5 вещей о многопоточности
 https://habr.com/ru/company/luxoft/blog/157273/ - шпаргалка по многопоточности
+http://java-online.ru/concurrent-atomic.xhtml - Шпаргалка по атомикам
