@@ -37,3 +37,4 @@ https://www.resolventa.ru/spr/matan/sequence.htm#bound - ограниченые 
 https://znanija.com/task/28883339 - решение
 https://otvetka.tutoronline.ru/question/podskazhite-pozhalujsta-kak-iskat-supremum-i-infimum-mnozhestva-v-teorii-ponjala-chto-jeto-takoe-supremum-jeto-mnozhestvo-veshhe - супремум и инфимум примеры решений
 https://znanija.com/task/29345970 - решение супремума и инфимума
+math.hashcode.ru/questions/82218/теория-чисел-найти-инфимум-для-big-1-n-big-dfrac-1-4-dfrac-2-n-big-n-in-mathbb-n-big - Нахождение инфимума и супремума
