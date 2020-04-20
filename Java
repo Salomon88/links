@@ -89,3 +89,5 @@ https://habr.com/ru/company/luxoft/blog/157273/ - шпаргалка по мно
 http://java-online.ru/concurrent-atomic.xhtml - Шпаргалка по атомикам
 https://javarush.ru/groups/posts/2496-podrobnihy-razbor-klassa-hashmap - структура карты
 https://www.guardsquare.com/en/blog/string-concatenation-java-9-untangling-invokedynamic - джава9 соединение строк
+https://habr.com/ru/post/168195/ - про хэшкод и иквалз
+https://habr.com/ru/company/mailru/blog/321306/ - как устроен дефолтный хешкод
