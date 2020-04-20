@@ -88,3 +88,4 @@ https://habr.com/ru/post/108016/ - 5 вещей о многопоточност�
 https://habr.com/ru/company/luxoft/blog/157273/ - шпаргалка по многопоточности
 http://java-online.ru/concurrent-atomic.xhtml - Шпаргалка по атомикам
 https://javarush.ru/groups/posts/2496-podrobnihy-razbor-klassa-hashmap - структура карты
+https://www.guardsquare.com/en/blog/string-concatenation-java-9-untangling-invokedynamic - джава9 соединение строк
