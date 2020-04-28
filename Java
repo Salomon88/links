@@ -95,3 +95,4 @@ https://www.baeldung.com/java-number-of-digits-in-int - нахождения к�
 https://blogs.oracle.com/javamagazine/creating-your-own-debugging-tools - создание дебагера
 https://javarush.ru/groups/posts/2274-kak-ispoljhzovatjh-bigdecimal-v-java - бигдецимал
 https://javatutorial.net/difference-between-hashmap-and-treemap-in-java - дерево мапа
+https://javarush.ru/groups/posts/2584-osobennosti-treemap - три мапа
