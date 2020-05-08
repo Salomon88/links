@@ -42,3 +42,5 @@ https://habr.com/ru/post/221667/ - Транзакционная память
 https://habr.com/ru/post/130123/ - Спинлоки касы мютексы
 http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/- стоимость инструкций
 https://www.androidauthority.com/instructions-per-cycle-gary-explains-705127/- ipc на пальцах
+https://stackoverflow.com/questions/2855140/recursively-add-files-by-pattern- добавление в индекс гита по шаблону
+git ls-files [path] | grep '\.java$' | xargs git add
