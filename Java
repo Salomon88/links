@@ -97,3 +97,4 @@ https://javarush.ru/groups/posts/2274-kak-ispoljhzovatjh-bigdecimal-v-java - б�
 https://javatutorial.net/difference-between-hashmap-and-treemap-in-java - дерево мапа
 https://javarush.ru/groups/posts/2584-osobennosti-treemap - три мапа
 https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/ - хештабл против хашмапы
+https://stackoverflow.com/questions/23079003/how-to-convert-a-java-8-stream-to-an-array - конвертация стрима в массив
