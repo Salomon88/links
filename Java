@@ -96,3 +96,4 @@ https://blogs.oracle.com/javamagazine/creating-your-own-debugging-tools - соз
 https://javarush.ru/groups/posts/2274-kak-ispoljhzovatjh-bigdecimal-v-java - бигдецимал
 https://javatutorial.net/difference-between-hashmap-and-treemap-in-java - дерево мапа
 https://javarush.ru/groups/posts/2584-osobennosti-treemap - три мапа
+https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/ - хештабл против хашмапы
