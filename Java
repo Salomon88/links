@@ -100,3 +100,4 @@ https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/
 https://stackoverflow.com/questions/23079003/how-to-convert-a-java-8-stream-to-an-array - конвертация стрима в массив
 https://stackoverflow.com/questions/1514910/how-to-properly-compare-two-integers-in-java - сравнение интжеров по равно равно ==
 https://habr.com/ru/post/337558/ - как устроен линкедлист
+https://medium.com/software-under-the-hood/under-the-hood-java-peak-safepoints-dd45af07d766 - сейфпоинт
