@@ -101,3 +101,4 @@ https://stackoverflow.com/questions/23079003/how-to-convert-a-java-8-stream-to-a
 https://stackoverflow.com/questions/1514910/how-to-properly-compare-two-integers-in-java - сравнение интжеров по равно равно ==
 https://habr.com/ru/post/337558/ - как устроен линкедлист
 https://medium.com/software-under-the-hood/under-the-hood-java-peak-safepoints-dd45af07d766 - сейфпоинт
+http://bazhenov.me/blog/2017/10/19/java-futext-2-gc.html - safepoint
