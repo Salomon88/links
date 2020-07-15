@@ -44,3 +44,4 @@ http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/- стоим�
 https://www.androidauthority.com/instructions-per-cycle-gary-explains-705127/- ipc на пальцах
 https://stackoverflow.com/questions/2855140/recursively-add-files-by-pattern- добавление в индекс гита по шаблону
 git ls-files [path] | grep '\.java$' | xargs git add
+https://sdkman.io - установка языков
