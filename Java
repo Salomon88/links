@@ -108,3 +108,4 @@ https://www.pluralsight.com/guides/introduction-to-the-fork-join-framework - FJP
 https://www.java-success.com/10-%e2%99%a6-executorservice-vs-forkjoin-future-vs-completablefuture-interview-qa/ - FJP vs ExecutorServices
 https://docs.oracle.com/en/java/javase/11/docs/api/jdk.compiler/com/sun/source/util/Plugin.html - Plugin for javac annotation preprocess
 https://www.codeflow.site/ru/article/awaitlity-testing - awaitility
+http://www.awaitility.org/ - awaitility
