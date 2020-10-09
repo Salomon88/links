@@ -105,3 +105,4 @@ http://bazhenov.me/blog/2017/10/19/java-futext-2-gc.html - safepoint
 https://javapapers.com/java/types-of-java-garbage-collectors/ - краткий ликбез про гц
 https://habr.com/ru/post/183462/ - перестановка значений без дополнительных пременных
 https://www.pluralsight.com/guides/introduction-to-the-fork-join-framework - FJP visualization
+https://www.java-success.com/10-%e2%99%a6-executorservice-vs-forkjoin-future-vs-completablefuture-interview-qa/ - FJP vs ExecutorServices
