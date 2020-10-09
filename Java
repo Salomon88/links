@@ -104,3 +104,4 @@ https://medium.com/software-under-the-hood/under-the-hood-java-peak-safepoints-d
 http://bazhenov.me/blog/2017/10/19/java-futext-2-gc.html - safepoint
 https://javapapers.com/java/types-of-java-garbage-collectors/ - краткий ликбез про гц
 https://habr.com/ru/post/183462/ - перестановка значений без дополнительных пременных
+https://www.pluralsight.com/guides/introduction-to-the-fork-join-framework - FJP visualization
